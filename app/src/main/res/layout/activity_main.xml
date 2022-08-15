@@ -9,10 +9,23 @@
 
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="99dp"
         android:text="reflex360"
-        android:textStyle="italic|bold"/>
+        android:textStyle="italic|bold" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="102dp"
+        android:text="reflex360 by kavindu"
+        android:textStyle="italic|bold" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Powered by reflex360" />
 
 
 </LinearLayout>
