@@ -43,6 +43,12 @@
         android:text="Post 04 - editor kavindu"
         android:textStyle="italic|bold" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="102dp"
+        android:text="Post 05 - editor kavindu"
+        android:textStyle="italic|bold" />
+
     <EditText
         android:id="@+id/editTextTextPersonName2"
         android:layout_width="match_parent"
